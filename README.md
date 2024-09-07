@@ -1,2 +1,2 @@
-# mrChat
+# MrChat
 A Chatting Application
